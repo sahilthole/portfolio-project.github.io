@@ -388,14 +388,14 @@ nav .fas {
 @media only screen and (max-width: 600px) {
     #header {
         background-image: url(background_6.jpeg);
-        opacity: 70%;
+        
     }
 
     .header-text {
         
-        margin-top: 85%;
+        margin-top: 90%;
         font-size: 16px;
-        margin-left: 0%;
+        margin-left: 2%;
     }
 
     .header-text h1 {
@@ -433,9 +433,9 @@ nav .fas {
     }
 
     .header-text {
-        margin-top: 85%;
+        margin-top: 90%;
         font-size: 16px;
-        margin-left: 0%;
+        margin-left: 2%;
     }
 
     .header-text h1 {
